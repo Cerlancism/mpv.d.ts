@@ -10,7 +10,7 @@
     "mpv"
   ],
   "author": "Cerlancism",
-  "license": "MIT",
+  "license": "GPLv3",
   "bugs": {
     "url": "https://github.com/Cerlancism/mpv.d.ts/issues"
   },
