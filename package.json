@@ -1,6 +1,6 @@
 {
   "name": "mpv.d.ts",
-  "version": "v0.40.0",
+  "version": "0.41.0",
   "description": "TypeScript definition file for mpv scripting.",
   "repository": {
     "type": "git",
